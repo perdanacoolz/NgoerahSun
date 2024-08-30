@@ -1,0 +1,6 @@
+@NgoerahSun_HostAddress = http://localhost:5210
+
+GET {{NgoerahSun_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
